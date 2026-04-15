@@ -1,0 +1,4 @@
+
+> @padi/validator@1.0.0 build C:\padi-sovereign-bureau\living-library-of-access\packages\validator
+> tsc -p tsconfig.json
+

@@ -1,0 +1,4 @@
+
+> @padi/node@1.0.0 build C:\padi-sovereign-bureau\living-library-of-access\apps\node
+> tsc -p tsconfig.json
+

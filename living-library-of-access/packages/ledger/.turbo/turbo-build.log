@@ -1,0 +1,4 @@
+
+> @padi/ledger@1.0.0 build C:\padi-sovereign-bureau\living-library-of-access\packages\ledger
+> tsc -p tsconfig.json
+

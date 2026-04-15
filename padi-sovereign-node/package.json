@@ -1,0 +1,8 @@
+{
+  "name": "padi-sovereign-node",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ]
+}

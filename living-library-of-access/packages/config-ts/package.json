@@ -1,0 +1,10 @@
+{
+  "name": "@padi/config-ts",
+  "version": "1.0.0",
+  "main": "tsconfig.json",
+  "scripts": {
+    "build": "echo \"no build step\"",
+    "lint": "echo \"noop\"",
+    "test": "echo \"noop\""
+  }
+}

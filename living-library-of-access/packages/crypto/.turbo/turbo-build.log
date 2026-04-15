@@ -1,0 +1,4 @@
+
+> @padi/crypto@1.0.0 build C:\padi-sovereign-bureau\living-library-of-access\packages\crypto
+> tsc -p tsconfig.json
+
