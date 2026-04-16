@@ -6,7 +6,9 @@
         },
         {
             "id": "2.1.0",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c 2.1.0"
         },
         {
             "id": "Nairobi_01_Node",
@@ -14,7 +16,9 @@
         },
         {
             "id": "100",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c 100"
         },
         {
             "id": "A2UI_Standard",
@@ -22,7 +26,9 @@
         },
         {
             "id": "ACTIVE",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c ACTIVE"
         },
         {
             "id": "LiaisonAgent",
@@ -38,7 +44,9 @@
         },
         {
             "id": "Modernized Dewey Retrieval Logic",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c Modernized Dewey Retrieval Logic"
         },
         {
             "id": "SovereignNode",
@@ -46,7 +54,9 @@
         },
         {
             "id": "Sovereign Node",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c Sovereign Node"
         },
         {
             "id": "Ontology",
@@ -66,7 +76,9 @@
         },
         {
             "id": "Deterministic Address",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c Deterministic Address"
         },
         {
             "id": "integrityLevel",
@@ -78,15 +90,21 @@
         },
         {
             "id": "PADI-v2.1",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c PADI-v2.1"
         },
         {
             "id": "PADI-A2UI-001",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c PADI-A2UI-001"
         },
         {
             "id": "Agent-to-User Interface Protocol",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c Agent-to-User Interface Protocol"
         },
         {
             "id": "governingStandard",
@@ -98,7 +116,9 @@
         },
         {
             "id": "Unique coordinate for a digital resource, preventing retrieval drift.",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c Unique coordinate for a digital resource, preventing retrieval drift."
         },
         {
             "id": "DatatypeProperty",
@@ -106,27 +126,39 @@
         },
         {
             "id": "The Peculiar Librarian | Primary Node",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c The Peculiar Librarian | Primary Node"
         },
         {
             "id": "PADI-025.04",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c PADI-025.04"
         },
         {
             "id": "Liaison Agent",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c Liaison Agent"
         },
         {
             "id": "DETERMINISTIC",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c DETERMINISTIC"
         },
         {
             "id": "PADI Technical Standard Core",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c PADI Technical Standard Core"
         },
         {
             "id": "The Sovereign Bureau's deterministic framework for Information Science.",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c The Sovereign Bureau's deterministic framework for Information Science."
         },
         {
             "id": "Sovereign_Network",
@@ -134,59 +166,87 @@
         },
         {
             "id": "padi-maritime-logistics",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c padi-maritime-logistics"
         },
         {
             "id": "the-sovereign-bureau",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c the-sovereign-bureau"
         },
         {
             "id": "peculiar-librarian",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c peculiar-librarian"
         },
         {
             "id": "samuel-gitandu",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c samuel-gitandu"
         },
         {
             "id": "padi-dental-standard",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c padi-dental-standard"
         },
         {
             "id": "the-sovereign-bureau-archive",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c the-sovereign-bureau-archive"
         },
         {
             "id": "bureau-visual-engine",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c bureau-visual-engine"
         },
         {
             "id": "living-library-of-access",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c living-library-of-access"
         },
         {
             "id": "padi-sovereign-node",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c padi-sovereign-node"
         },
         {
             "id": "samuel-muriithi",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c samuel-muriithi"
         },
         {
             "id": "padi-sovereign-bureau",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FFA500",
+            "label": "\u26a0\ufe0f padi-sovereign-bureau"
         },
         {
             "id": "padi-standard",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c padi-standard"
         },
         {
             "id": ".github",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c .github"
         },
         {
             "id": "padi-documentation",
-            "group": "Value"
+            "group": "Value",
+            "color": "#FF0000",
+            "label": "\u274c padi-documentation"
         }
     ],
     "links": [
