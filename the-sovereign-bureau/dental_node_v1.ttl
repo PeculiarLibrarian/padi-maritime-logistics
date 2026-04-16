@@ -1,0 +1,18 @@
+@prefix ns0: <https://padi.standard/schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://nairobi-01.node/clinic/v1#SmallClinic_Alpha>
+  a <https://padi.standard/schema#SovereignNode> ;
+  ns0:hasAuthority "The Peculiar Librarian" ;
+  ns0:complianceLevel "Zero-Trust-Verified" .
+
+<https://nairobi-01.node/clinic/v1#PatientRecord_001>
+  a ns0:MedicalObject ;
+  ns0:encryptedHash "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" ;
+  ns0:lastAudit "2026-04-15"^^xsd:date ;
+  ns0:isSovereign true .
+
+<https://nairobi-01.node/clinic/v1#AccessPolicy_Alpha>
+  a ns0:SecurityPolicy ;
+  ns0:allowsAgent "Bureau-Liaison-v2" ;
+  ns0:deniesThirdParty "Legacy-SaaS-Wrapper" .

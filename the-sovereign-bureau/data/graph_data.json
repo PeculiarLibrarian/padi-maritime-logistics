@@ -1,0 +1,309 @@
+{
+    "nodes": [
+        {
+            "id": "schema#",
+            "group": "Subject"
+        },
+        {
+            "id": "2.1.0",
+            "group": "Value"
+        },
+        {
+            "id": "Nairobi_01_Node",
+            "group": "Subject"
+        },
+        {
+            "id": "100",
+            "group": "Value"
+        },
+        {
+            "id": "A2UI_Standard",
+            "group": "Subject"
+        },
+        {
+            "id": "ACTIVE",
+            "group": "Value"
+        },
+        {
+            "id": "LiaisonAgent",
+            "group": "Subject"
+        },
+        {
+            "id": "Class",
+            "group": "Object"
+        },
+        {
+            "id": "Dewey_Modernized",
+            "group": "Subject"
+        },
+        {
+            "id": "Modernized Dewey Retrieval Logic",
+            "group": "Value"
+        },
+        {
+            "id": "SovereignNode",
+            "group": "Subject"
+        },
+        {
+            "id": "Sovereign Node",
+            "group": "Value"
+        },
+        {
+            "id": "Ontology",
+            "group": "Object"
+        },
+        {
+            "id": "resourceStatus",
+            "group": "Subject"
+        },
+        {
+            "id": "string",
+            "group": "Object"
+        },
+        {
+            "id": "ResourceAddress",
+            "group": "Object"
+        },
+        {
+            "id": "Deterministic Address",
+            "group": "Value"
+        },
+        {
+            "id": "integrityLevel",
+            "group": "Subject"
+        },
+        {
+            "id": "integer",
+            "group": "Object"
+        },
+        {
+            "id": "PADI-v2.1",
+            "group": "Value"
+        },
+        {
+            "id": "PADI-A2UI-001",
+            "group": "Value"
+        },
+        {
+            "id": "Agent-to-User Interface Protocol",
+            "group": "Value"
+        },
+        {
+            "id": "governingStandard",
+            "group": "Subject"
+        },
+        {
+            "id": "hasCoordinate",
+            "group": "Subject"
+        },
+        {
+            "id": "Unique coordinate for a digital resource, preventing retrieval drift.",
+            "group": "Value"
+        },
+        {
+            "id": "DatatypeProperty",
+            "group": "Object"
+        },
+        {
+            "id": "The Peculiar Librarian | Primary Node",
+            "group": "Value"
+        },
+        {
+            "id": "PADI-025.04",
+            "group": "Value"
+        },
+        {
+            "id": "Liaison Agent",
+            "group": "Value"
+        },
+        {
+            "id": "DETERMINISTIC",
+            "group": "Value"
+        },
+        {
+            "id": "PADI Technical Standard Core",
+            "group": "Value"
+        },
+        {
+            "id": "The Sovereign Bureau's deterministic framework for Information Science.",
+            "group": "Value"
+        }
+    ],
+    "links": [
+        {
+            "source": "schema#",
+            "target": "2.1.0",
+            "label": "versionInfo"
+        },
+        {
+            "source": "Nairobi_01_Node",
+            "target": "100",
+            "label": "integrityLevel"
+        },
+        {
+            "source": "A2UI_Standard",
+            "target": "ACTIVE",
+            "label": "resourceStatus"
+        },
+        {
+            "source": "LiaisonAgent",
+            "target": "Class",
+            "label": "type"
+        },
+        {
+            "source": "Dewey_Modernized",
+            "target": "Modernized Dewey Retrieval Logic",
+            "label": "label"
+        },
+        {
+            "source": "SovereignNode",
+            "target": "Sovereign Node",
+            "label": "label"
+        },
+        {
+            "source": "schema#",
+            "target": "Ontology",
+            "label": "type"
+        },
+        {
+            "source": "SovereignNode",
+            "target": "Class",
+            "label": "type"
+        },
+        {
+            "source": "resourceStatus",
+            "target": "string",
+            "label": "range"
+        },
+        {
+            "source": "Dewey_Modernized",
+            "target": "ResourceAddress",
+            "label": "type"
+        },
+        {
+            "source": "resourceStatus",
+            "target": "ResourceAddress",
+            "label": "domain"
+        },
+        {
+            "source": "ResourceAddress",
+            "target": "Deterministic Address",
+            "label": "label"
+        },
+        {
+            "source": "integrityLevel",
+            "target": "integer",
+            "label": "range"
+        },
+        {
+            "source": "Nairobi_01_Node",
+            "target": "PADI-v2.1",
+            "label": "governingStandard"
+        },
+        {
+            "source": "A2UI_Standard",
+            "target": "PADI-A2UI-001",
+            "label": "hasCoordinate"
+        },
+        {
+            "source": "A2UI_Standard",
+            "target": "Agent-to-User Interface Protocol",
+            "label": "label"
+        },
+        {
+            "source": "governingStandard",
+            "target": "string",
+            "label": "range"
+        },
+        {
+            "source": "hasCoordinate",
+            "target": "string",
+            "label": "range"
+        },
+        {
+            "source": "ResourceAddress",
+            "target": "Unique coordinate for a digital resource, preventing retrieval drift.",
+            "label": "comment"
+        },
+        {
+            "source": "resourceStatus",
+            "target": "DatatypeProperty",
+            "label": "type"
+        },
+        {
+            "source": "hasCoordinate",
+            "target": "ResourceAddress",
+            "label": "domain"
+        },
+        {
+            "source": "Nairobi_01_Node",
+            "target": "The Peculiar Librarian | Primary Node",
+            "label": "label"
+        },
+        {
+            "source": "Dewey_Modernized",
+            "target": "PADI-025.04",
+            "label": "hasCoordinate"
+        },
+        {
+            "source": "governingStandard",
+            "target": "SovereignNode",
+            "label": "domain"
+        },
+        {
+            "source": "LiaisonAgent",
+            "target": "Liaison Agent",
+            "label": "label"
+        },
+        {
+            "source": "A2UI_Standard",
+            "target": "ResourceAddress",
+            "label": "type"
+        },
+        {
+            "source": "integrityLevel",
+            "target": "SovereignNode",
+            "label": "domain"
+        },
+        {
+            "source": "governingStandard",
+            "target": "DatatypeProperty",
+            "label": "type"
+        },
+        {
+            "source": "hasCoordinate",
+            "target": "DatatypeProperty",
+            "label": "type"
+        },
+        {
+            "source": "integrityLevel",
+            "target": "DatatypeProperty",
+            "label": "type"
+        },
+        {
+            "source": "Dewey_Modernized",
+            "target": "DETERMINISTIC",
+            "label": "resourceStatus"
+        },
+        {
+            "source": "schema#",
+            "target": "PADI Technical Standard Core",
+            "label": "label"
+        },
+        {
+            "source": "ResourceAddress",
+            "target": "Class",
+            "label": "type"
+        },
+        {
+            "source": "Nairobi_01_Node",
+            "target": "SovereignNode",
+            "label": "type"
+        },
+        {
+            "source": "schema#",
+            "target": "The Sovereign Bureau's deterministic framework for Information Science.",
+            "label": "comment"
+        }
+    ]
+}
