@@ -1,0 +1,27 @@
+{
+    "timestamp": "2026-04-17T17:38:48.405093",
+    "origin": "N-1 Nairobi",
+    "remediation_logs": [
+        "REMEDIATION: Batch 2026-A moved to 'Issue-First' bay."
+    ],
+    "results": [
+        {
+            "item": "Frozen Poultry",
+            "status": "Compliant",
+            "shelf_life": "85%",
+            "risk": "Low"
+        },
+        {
+            "item": "Dry Provisions (Grain)",
+            "status": "Review Required",
+            "shelf_life": "12%",
+            "risk": "Med"
+        },
+        {
+            "item": "Chemicals (Cleaning)",
+            "status": "Compliant",
+            "shelf_life": "90%",
+            "risk": "Low"
+        }
+    ]
+}
