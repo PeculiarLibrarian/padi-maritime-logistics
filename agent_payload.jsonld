@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "ex": "http://example.org/padi#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "@id": "ex:Ship_01",
+    "@type": "ex:Vessel",
+    "ex:vesselID": "NB-01-NODE"
+}

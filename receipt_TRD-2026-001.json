@@ -1,0 +1,9 @@
+{
+    "transaction_id": "TRD-2026-001",
+    "node_authority": "NAIROBI-01-NODE",
+    "timestamp": "2026-04-18T16:50:56.021247",
+    "value_kes": 1300000,
+    "currency": "KES",
+    "status": "SETTLED",
+    "verification_hash": -489858449588552359
+}

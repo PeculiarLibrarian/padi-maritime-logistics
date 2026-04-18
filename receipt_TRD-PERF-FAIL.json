@@ -1,0 +1,9 @@
+{
+    "transaction_id": "TRD-PERF-FAIL",
+    "node_authority": "NAIROBI-01-NODE",
+    "timestamp": "2026-04-18T17:40:01.780144",
+    "value_kes": 500000,
+    "currency": "KES",
+    "status": "SETTLED",
+    "verification_hash": -1804519725269676738
+}
