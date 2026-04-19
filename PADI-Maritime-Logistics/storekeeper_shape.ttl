@@ -1,0 +1,30 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix padi: <https://padi.standard/schema#> .
+@prefix maritime: <https://padi.standard/maritime#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+maritime:InventoryShape
+    a sh:NodeShape ;
+    sh:targetClass maritime:StoreItem ;  # Every "Item" must follow these rules
+    
+    # RULE 1: Must have a unique ID (No duplicates)
+    sh:property [
+        sh:path maritime:itemID ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string ;
+    ] ;
+
+    # RULE 2: Must be physically located on the vessel
+    sh:property [
+        sh:path maritime:vesselLocation ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI ;
+    ] ;
+
+    # RULE 3: Quantity cannot be a negative number (Physical Truth)
+    sh:property [
+        sh:path maritime:stockLevel ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] .

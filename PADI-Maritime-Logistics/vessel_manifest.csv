@@ -1,0 +1,3 @@
+itemID,stockLevel,vesselURI
+"SOAP-001",50,"https://padi.standard/vessels/MS-Sovereign"
+"GLOVES-99",-10,"https://padi.standard/vessels/MS-Sovereign"
