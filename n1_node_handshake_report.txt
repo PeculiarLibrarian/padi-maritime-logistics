@@ -1,0 +1,18 @@
+
+✅ SEMANTIC HANDSHAKE SUCCESSFUL
+----------------------------------------
+Agent-Readable JSON-LD Output:
+[
+  {
+    "@id": "http://example.org/padi#Ship_01",
+    "@type": [
+      "http://example.org/padi#Vessel"
+    ],
+    "http://example.org/padi#vesselID": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#string",
+        "@value": "NB-01-NODE"
+      }
+    ]
+  }
+]

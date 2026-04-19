@@ -13,3 +13,9 @@
 1. **padi_admin.py**: Core validation and system audit.
 2. **padi_trade_engine.py**: Automated settlement and transaction gating.
 3. **AGENT.md**: McKinsey-aligned autonomous agent charter.
+
+## N-1-NODE Stabilization (April 2026)
+- **Status:** Operational
+- **Architecture:** ARM64 (Android 14 via Termux)
+- **Verification:** Successful JSON-LD Handshake (NB-01-NODE)
+- **Sovereign Agent Address:** agent1qd9etuce86p36p2vgztssdxa2ccy3s8quezflqt9zsuqcp7dtt0uy3mw4m0
