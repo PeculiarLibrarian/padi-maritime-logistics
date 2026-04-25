@@ -1,0 +1,31 @@
+/data/data/com.termux/files/home/the-library
+├── archives
+│   └── registry_20260425_1531.txt
+├── conservation-lab
+├── head_librarian.py
+├── ontologies
+├── peculiar-shelf
+│   ├── README.md
+│   ├── catalog
+│   ├── ontologies
+│   │   └── peculiar_taxonomy.ttl
+│   ├── ontology
+│   │   └── padi-v3.ttl
+│   ├── protocol
+│   ├── reports
+│   │   └── BUREAU_REPORT_N1_REMEDIATION.md
+│   ├── schemas
+│   ├── scripts
+│   │   ├── export_library.py
+│   │   └── validate_shelf.py
+│   └── shapes
+│       ├── library_shapes.shacl
+│       └── validation.shacl
+└── stacks
+    ├── general-collection
+    │   └── shapes.ttl
+    ├── infrastructure
+    ├── maritime-finance
+    └── vessels
+
+18 directories, 11 files
